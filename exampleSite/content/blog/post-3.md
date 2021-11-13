@@ -1,14 +1,11 @@
 ---
-title: DIY Paper Diamond Tutorial with HUNGRY HEART
+title: How To Clean Your Eyelash Extensions
 description: meta description
 image: images/post/06.jpg
 date: 2021-01-25T11:35:57.000+06:00
-author: Henara Colii
-tags:
-- Diy
-- Toy
-categories:
-- LifeStyle
+author: Simone
+tags: []
+categories: []
 
 ---
 A paper diamond is such a pretty way to bring a flair of stylish luxury to your home.. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
