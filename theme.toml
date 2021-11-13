@@ -1,8 +1,8 @@
-name = "Bookworm"
+name = "Lash Addict"
 license = "MIT"
 licenselink = "https://github.com/gethugothemes/bookworm-light/blob/master/LICENSE"
 description = "Bookworm is clean and modern Hugo blog theme focused on high speed and support muliple authors. Bookworm fits perfectly any kind of blog specially personal, photography, travel or biography blogs. Bookworm is fully responsive, Super fast and powered by Bootstrap."
-homepage = "https://github.com/gethugothemes/bookworm-light/"
+homepage = "https://lashaddict.co.nz/"
 demosite = "https://demo.gethugothemes.com/bookworm-light/"
 tags = ['blog', 'light', 'bootstrap', 'responsive', 'contact-form']
 features = ['responsive']
