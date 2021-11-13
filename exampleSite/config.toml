@@ -12,14 +12,10 @@ unsafe = true
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions/"
-weight = 4
+weight = 3
 [[menu.footer]]
 name = "Privacy"
 url = "privacy/"
-weight = 3
-[[menu.footer]]
-name = "Authors"
-url = "author/"
 weight = 2
 [[menu.footer]]
 name = "About"
